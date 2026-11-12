@@ -1,3 +1,5 @@
 streamlit
-openai==3.37.0
-pypdf==6.21.2
+pandas
+numpy
+scikit-learn
+joblib
